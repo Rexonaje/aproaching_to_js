@@ -1,1 +1,2 @@
 # aproaching_to_js
+This repository is just a collection of .js practicing files that i will be adding once a week, just to show what i do for practice. Most of this exercises are taken from theOdinProject.com course.
